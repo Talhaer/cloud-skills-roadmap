@@ -204,7 +204,7 @@ curl http://localhost:<nodeport>
 **Part 3: Alternative Clouds**
 
 <details>
-<summary><strong>🔵 Google Cloud Platform (GKE)</strong></summary>
+<summary><strong> Google Cloud Platform (GKE)</strong></summary>
 
 1. **Create GCP account:** Sign up at [cloud.google.com](https://cloud.google.com) - get $300 free credits for 90 days
 2. **Install gcloud CLI:**
@@ -243,7 +243,7 @@ curl http://localhost:<nodeport>
 </details>
 
 <details>
-<summary><strong>🟠 Oracle Cloud Infrastructure (OKE)</strong></summary>
+<summary><strong> Oracle Cloud Infrastructure (OKE)</strong></summary>
 
 1. **Create OCI account:** Sign up at [oracle.com/cloud](https://www.oracle.com/cloud) - **Always Free Tier** includes:
    - 2 AMD VMs (1 OCPU, 1GB RAM each) - forever free
@@ -279,7 +279,7 @@ curl http://localhost:<nodeport>
 </details>
 
 <details>
-<summary><strong>🔷 Microsoft Azure (AKS)</strong></summary>
+<summary><strong> Microsoft Azure (AKS)</strong></summary>
 
 1. **Create Azure account:** Sign up at [azure.microsoft.com](https://azure.microsoft.com) - get $200 free credits for 30 days
 2. **Install Azure CLI:**
@@ -324,7 +324,7 @@ curl http://localhost:<nodeport>
 </details>
 
 <details>
-<summary><strong>🟢 DigitalOcean (DOKS)</strong></summary>
+<summary><strong> DigitalOcean (DOKS)</strong></summary>
 
 1. **Create DigitalOcean account:** Sign up at [digitalocean.com](https://www.digitalocean.com) - use referral links for $200 free credits
 2. **Install doctl CLI:**
