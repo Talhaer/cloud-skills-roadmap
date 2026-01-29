@@ -17,16 +17,16 @@ A **month-by-month beginner guide** to go from zero to job-ready in cloud, DevOp
 
 | Month | Focus | Folder |
 |-------|--------|--------|
-| **1–2** | Foundations: Infrastructure, tools, first hybrid project, Kubernetes | [Month1-2_Foundations](./Month1-2_Foundations/) |
-| **3** | Infrastructure as Code (Terraform) | [Month3_Infrastructure_as_Code](./Month3_Infrastructure_as_Code/) |
-| **4** | Configuration + Automation (Ansible, networking) | [Month4_Configuration_Automation](./Month4_Configuration_Automation/) |
-| **5** | Container orchestration beyond Kubernetes | [Month5_Container_Orchestration](./Month5_Container_Orchestration/) |
-| **6** | Project 1 – RAG pipeline (hybrid deployment) | [Month6_RAG_Pipeline](./Month6_RAG_Pipeline/) |
-| **7** | Project 2 – Infrastructure monitoring | [Month7_Infrastructure_Monitoring](./Month7_Infrastructure_Monitoring/) |
-| **8** | Project 3 – CI/CD pipeline (multi-cloud) | [Month8_CICD_Pipeline](./Month8_CICD_Pipeline/) |
-| **9** | Hybrid + migration interview prep | [Month9_Hybrid_Migration_Interviews](./Month9_Hybrid_Migration_Interviews/) |
-| **10** | AI-specific interviews | [Month10_AI_Interviews](./Month10_AI_Interviews/) |
-| **11–12** | Behavioral stories + incident thinking | [Month11-12_Behavioral_Incident_Thinking](./Month11-12_Behavioral_Incident_Thinking/) |
+| **1–2** | Foundations: Infrastructure, tools, first hybrid project, Kubernetes | [Month_01-02_Foundations](./Month_01-02_Foundations/) |
+| **3** | Infrastructure as Code (Terraform) | [Month_03_Infrastructure_as_Code](./Month_03_Infrastructure_as_Code/) |
+| **4** | Configuration + Automation (Ansible, networking) | [Month_04_Configuration_Automation](./Month_04_Configuration_Automation/) |
+| **5** | Container orchestration beyond Kubernetes | [Month_05_Container_Orchestration](./Month_05_Container_Orchestration/) |
+| **6** | Project 1 – RAG pipeline (hybrid deployment) | [Month_06_RAG_Pipeline](./Month_06_RAG_Pipeline/) |
+| **7** | Project 2 – Infrastructure monitoring | [Month_07_Infrastructure_Monitoring](./Month_07_Infrastructure_Monitoring/) |
+| **8** | Project 3 – CI/CD pipeline (multi-cloud) | [Month_08_CICD_Pipeline](./Month_08_CICD_Pipeline/) |
+| **9** | Hybrid + migration interview prep | [Month_09_Hybrid_Migration_Interviews](./Month_09_Hybrid_Migration_Interviews/) |
+| **10** | AI-specific interviews | [Month_10_AI_Interviews](./Month_10_AI_Interviews/) |
+| **11–12** | Behavioral stories + incident thinking | [Month_11-12_Behavioral_Incident_Thinking](./Month_11-12_Behavioral_Incident_Thinking/) |
 
 **Extra:**
 

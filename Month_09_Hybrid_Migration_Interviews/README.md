@@ -27,4 +27,4 @@
 
 ---
 
-**Next:** [Month 10 – AI-Specific Interviews](../Month10_AI_Interviews/)
+**Next:** [Month 10 – AI-Specific Interviews](../Month_10_AI_Interviews/)

@@ -44,4 +44,4 @@
 
 ---
 
-**Next:** [Month 8 – CI/CD Pipeline](../Month8_CICD_Pipeline/)
+**Next:** [Month 08 – CI/CD Pipeline](../Month_08_CICD_Pipeline/)

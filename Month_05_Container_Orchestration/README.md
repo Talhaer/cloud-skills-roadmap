@@ -32,4 +32,4 @@
 
 ---
 
-**Next:** [Month 6 – RAG Pipeline Project](../Month6_RAG_Pipeline/)
+**Next:** [Month 06 – RAG Pipeline](../Month_06_RAG_Pipeline/)

@@ -33,4 +33,4 @@
 
 ---
 
-**Next:** [Month 4 – Configuration + Automation](../Month4_Configuration_Automation/)
+**Next:** [Month 04 – Configuration + Automation](../Month_04_Configuration_Automation/)

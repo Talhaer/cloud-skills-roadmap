@@ -50,4 +50,4 @@
 
 ---
 
-**Next:** [Month 7 – Infrastructure Monitoring](../Month7_Infrastructure_Monitoring/)
+**Next:** [Month 07 – Infrastructure Monitoring](../Month_07_Infrastructure_Monitoring/)

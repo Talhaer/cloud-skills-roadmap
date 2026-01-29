@@ -120,4 +120,4 @@
 
 ---
 
-**Next:** [Month 3 – Infrastructure as Code](../Month3_Infrastructure_as_Code/)
+**Next:** [Month 03 – Infrastructure as Code](../Month_03_Infrastructure_as_Code/)

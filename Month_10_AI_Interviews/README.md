@@ -33,4 +33,4 @@
 
 ---
 
-**Next:** [Month 11–12 – Behavioral + Incident Thinking](../Month11-12_Behavioral_Incident_Thinking/)
+**Next:** [Month 11–12 – Behavioral + Incident Thinking](../Month_11-12_Behavioral_Incident_Thinking/)
