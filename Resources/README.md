@@ -1,6 +1,6 @@
 # Resources
 
-Master resource bank for the Cloud Skills Roadmap: YouTube channels, paid courses, free platforms, community, and practice. For **full links, official docs, and GitHub repos by topic**, see [cloud_skills_roadmap_resources.md](./cloud_skills_roadmap_resources.md) in this folder.
+Master resource bank for the Cloud Skills Roadmap: YouTube channels, paid courses, free platforms, community, and practice.
 
 ---
 
