@@ -49,7 +49,7 @@
 
 - [RAG (Qdrant)](https://qdrant.tech/rag/)
 - [Private AI / RAG](https://www.saiumesh.dev/posts/rag-2)
-- [Hybrid LLM deployment (Ollama)](https://ollama.ai/blog/running-llama-2-on-cpu-inference-for-document-q-and-a)
+- [Hybrid LLM: local + cloud (Ollama Minions)](https://ollama.ai/blog/minions)
 
 ### Privacy-first AI
 

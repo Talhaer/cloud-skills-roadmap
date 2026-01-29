@@ -7,7 +7,7 @@
 ## Migration case studies
 
 - [AWS Migration Hub](https://aws.amazon.com/migration-hub/)
-- [Cloud migration patterns (Azure)](https://docs.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/)
+- [Cloud migration patterns (Azure)](https://learn.microsoft.com/en-us/azure/cloud-adoption-framework/migrate/plan-migration)
 - [VMware to GCP migration](https://cloud.google.com/migrate/compute-engine/docs/4.11/concepts/architecture/gcp-reference-architecture)
 
 ---
